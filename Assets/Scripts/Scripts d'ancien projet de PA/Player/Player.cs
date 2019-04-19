@@ -7,10 +7,13 @@ using UnityEngine;
 
 public class Player : Character 
 {
-	//======================================================
-	// Public variables
-	//======================================================
-	public int direction {get; set;}
+
+    [SerializeField] private float _dashSpeed;
+    [SerializeField] private float _dashDistance;
+    //======================================================
+    // Public variables
+    //======================================================
+    public int direction {get; set;}
 	public bool isMovementDisabled {get; set;}
 
 	//======================================================
