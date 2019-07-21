@@ -1,21 +1,17 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class CameraController : MonoBehaviour
 {
 
     [SerializeField] private Transform _target;
     [SerializeField] private Vector3 _cameraOffset;
-
     [SerializeField] private float smoothSpeed;
 
     void Awake()
     {
 
     }
-
-
+    
     // Update is called once per frame
     void FixedUpdate()
     {

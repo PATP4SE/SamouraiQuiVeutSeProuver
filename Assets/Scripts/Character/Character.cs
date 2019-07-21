@@ -13,8 +13,8 @@ public abstract class Character : MonoBehaviour
 	//======================================================
 	// Serialized variables
 	//======================================================
-	[SerializeField] protected float speed;
-	[SerializeField] protected float decelerationPercentage;
+	//[SerializeField] protected float speed;
+	//[SerializeField] protected float decelerationPercentage;
 
 	[SerializeField] protected float attackRange;
 	[SerializeField] protected float attackPushForce;
@@ -23,14 +23,10 @@ public abstract class Character : MonoBehaviour
 	//======================================================
 	// Private physics-related variables
 	//======================================================
-	protected Rigidbody2D characterRigidbody;
 	protected SpriteRenderer characterSprite;
-	protected BoxCollider2D characterCollider;
 
 	void Awake () {
-		characterRigidbody = GetComponent<Rigidbody2D> ();
 		characterSprite = GetComponent<SpriteRenderer> ();
-		characterCollider = GetComponent<BoxCollider2D> ();
 	}
 
 	public virtual void LoseHealth(float damage)

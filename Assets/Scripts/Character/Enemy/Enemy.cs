@@ -1,7 +1,5 @@
 ﻿#define DEBUG
 
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Enemy : Character
@@ -9,7 +7,6 @@ public class Enemy : Character
 	[SerializeField] private float rangeToAttack;
 	[SerializeField] private GameObject player;
 	[SerializeField] private float secondsToFlash;
-
 
 	private bool damaged;
 	private float timeToRemoveFlash;
@@ -24,29 +21,6 @@ public class Enemy : Character
 	void Start()
 	{
 		damaged = false;
-
-		if (player == null) 
-			player = GameObject.FindGameObjectWithTag ("Player");
-
-		Physics2D.IgnoreCollision (player.GetComponent<BoxCollider2D>(), characterCollider);
-	}
-
-	public void FollowPlayer()
-	{
-		Utils.DecelerateX(ref characterRigidbody, decelerationPercentage);
-
-		float posX = (player.transform.position.x - characterRigidbody.transform.position.x) > 0 ? 1 : -1;
-
-		if (posX == 1) 
-		{
-			characterSprite.flipX = false;
-		} 
-		else 
-		{
-			characterSprite.flipX = true;
-		}
-
-		characterRigidbody.AddForce(new Vector3 ( posX * speed, 0), ForceMode2D.Impulse);
 	}
 
 	public void Attack()

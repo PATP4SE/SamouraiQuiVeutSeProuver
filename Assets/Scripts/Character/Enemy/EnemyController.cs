@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class EnemyController : MonoBehaviour {
 
@@ -8,14 +6,16 @@ public class EnemyController : MonoBehaviour {
 	[SerializeField] private GameObject player;
 
 	private Enemy enemy;
+	private EnemyMovement enemyMovement;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
 		if (player == null) 
 			player = GameObject.FindGameObjectWithTag ("Player");
 
 		enemy = GetComponent<Enemy> ();
-	}
+        enemyMovement = GetComponent<EnemyMovement> ();
+    }
 	
 	// Update is called once per frame
 	void Update () {
@@ -25,7 +25,7 @@ public class EnemyController : MonoBehaviour {
 			enemyAnimator.SetTrigger ("Attack");
 		}
 
-		enemy.FollowPlayer ();
+        enemyMovement.FollowPlayer ();
 		enemy.ApplyColorOnDamaged ();
 	}
 }
