@@ -4,9 +4,15 @@ public class PlayerController : MonoBehaviour {
 
 	//[SerializeField] private Animator playerAnimator;
 
-	private bool attacked;
-	private PlayerMovement playerMovement;
-	private Player player;
+    [SerializeField] CharacterMovement2D CharacterMovement;
+
+    private bool attacked;
+    private PlayerMovement playerMovement;
+    private Player player;
+
+    private float HorizontalDirection;
+    private bool IsJumping;
+
 
     // Use this for initialization
     void Start ()
@@ -21,33 +27,44 @@ public class PlayerController : MonoBehaviour {
 	// Update is called once per frame
 	void Update ()
     {
-		playerMovement.UpdateMovement ();
 
-        player.ApplyColorOnDamaged ();
+        HorizontalDirection = Input.GetAxisRaw("Horizontal");
 
-		if(attacked)
+        if (Input.GetButtonDown("Jump"))
+        {
+            Debug.Log("Jumpasdasd");
+            IsJumping = true;
+        }
+
+        if (attacked)
 		{
 			//playerAnimator.ResetTrigger ("Attack");
 			attacked = false;
 		}
 
-		if (Input.GetKey (KeyCode.Mouse0) || Input.GetKey (KeyCode.E))
-		{
-			attacked = true;
-			//playerAnimator.SetTrigger("Attack");
-		}
-		if (Input.GetKey (KeyCode.A))
-		{
-			playerMovement.MoveLeft ();
-		}
-		if (Input.GetKey (KeyCode.D))
-		{
-			playerMovement.MoveRight ();
-		}
-		if (Input.GetKeyDown (KeyCode.Space))
-		{
-			playerMovement.Jump ();
-		}
+		//if (Input.GetKey (KeyCode.Mouse0) || Input.GetKey (KeyCode.E))
+		//{
+		//	attacked = true;
+		//	//playerAnimator.SetTrigger("Attack");
+		//}
+		//if (Input.GetKey(KeyCode.A))
+		//{
+		//	playerMovement.MoveLeft ();
+		//}
+		//if (Input.GetKey (KeyCode.D))
+		//{
+		//	playerMovement.MoveRight ();
+		//}
+		//if (Input.GetKeyDown (KeyCode.Space))
+		//{
+		//	playerMovement.Jump ();
+		//}
 
 	}
+
+    private void FixedUpdate()
+    {
+        CharacterMovement.Move(HorizontalDirection * Time.fixedDeltaTime, false, IsJumping);
+        IsJumping = false;
+    }
 }
