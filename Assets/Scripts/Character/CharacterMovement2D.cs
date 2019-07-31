@@ -6,14 +6,15 @@ public class CharacterMovement2D : MonoBehaviour
 	[SerializeField] private float m_JumpForce = 400f;							// Amount of force added when the player jumps.
 	[Range(0, 1)] [SerializeField] private float m_CrouchSpeed = .36f;			// Amount of maxSpeed applied to crouching movement. 1 = 100%
 	[Range(0, .3f)] [SerializeField] private float m_MovementSmoothing = .05f;	// How much to smooth out the movement
-	[SerializeField] private float m_Speed = 40f;                               // How much to smooth out the movement
+    [SerializeField] private float m_Speed = 40f;                               // Speed
+    [SerializeField] private float m_fallingMultiplier;                         // How much to smooth out the falling after jumping
     [SerializeField] private bool m_AirControl = false;							// Whether or not a player can steer while jumping;
 	[SerializeField] private LayerMask m_WhatIsGround;							// A mask determining what is ground to the character
 	[SerializeField] private Transform m_GroundCheck;							// A position marking where to check if the player is grounded.
 	[SerializeField] private Transform m_CeilingCheck;							// A position marking where to check for ceilings
 	[SerializeField] private Collider2D m_CrouchDisableCollider;				// A collider that will be disabled when crouching
 
-	const float k_GroundedRadius = .2f; // Radius of the overlap circle to determine if grounded
+    const float k_GroundedRadius = .2f; // Radius of the overlap circle to determine if grounded
 	private bool m_Grounded;            // Whether or not the player is grounded.
 	const float k_CeilingRadius = .2f; // Radius of the overlap circle to determine if the player can stand up
 	private Rigidbody m_Rigidbody;
@@ -60,7 +61,12 @@ public class CharacterMovement2D : MonoBehaviour
 					OnLandEvent.Invoke();
 			}
 		}
-	}
+
+        if (m_Rigidbody.velocity.y > 0)
+        {
+            m_Rigidbody.velocity += Vector3.up * Physics2D.gravity.y * (m_fallingMultiplier - 1) * Time.deltaTime;
+        }
+    }
 
 
 	public void Move(float move, bool crouch, bool jump)
@@ -131,7 +137,8 @@ public class CharacterMovement2D : MonoBehaviour
 		{
 			// Add a vertical force to the player.
 			m_Grounded = false;
-			m_Rigidbody.AddForce(new Vector2(0f, m_JumpForce));
+            m_Rigidbody.velocity = new Vector2(m_Rigidbody.velocity.x, 0);
+            m_Rigidbody.AddForce(new Vector2(0f, m_JumpForce), ForceMode.Impulse);
 		}
 	}
 
