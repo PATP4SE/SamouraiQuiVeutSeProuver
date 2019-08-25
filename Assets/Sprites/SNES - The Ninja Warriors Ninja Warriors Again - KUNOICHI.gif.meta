@@ -1,0 +1,2915 @@
+fileFormatVersion: 2
+guid: fc69a368a067c9341996cee6193c1959
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_0
+    21300002: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_1
+    21300004: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_2
+    21300006: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_3
+    21300008: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_4
+    21300010: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_5
+    21300012: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_6
+    21300014: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_7
+    21300016: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_8
+    21300018: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_9
+    21300020: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_10
+    21300022: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_11
+    21300024: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_12
+    21300026: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_13
+    21300028: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_14
+    21300030: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_15
+    21300032: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_16
+    21300034: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_17
+    21300036: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_18
+    21300038: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_19
+    21300040: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_20
+    21300042: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_21
+    21300044: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_22
+    21300046: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_23
+    21300048: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_24
+    21300050: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_25
+    21300052: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_26
+    21300054: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_27
+    21300056: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_28
+    21300058: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_29
+    21300060: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_30
+    21300062: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_31
+    21300064: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_32
+    21300066: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_33
+    21300068: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_34
+    21300070: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_35
+    21300072: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_36
+    21300074: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_37
+    21300076: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_38
+    21300078: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_39
+    21300080: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_40
+    21300082: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_41
+    21300084: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_42
+    21300086: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_43
+    21300088: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_44
+    21300090: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_45
+    21300092: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_46
+    21300094: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_47
+    21300096: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_48
+    21300098: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_49
+    21300100: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_50
+    21300102: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_51
+    21300104: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_52
+    21300106: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_53
+    21300108: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_54
+    21300110: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_55
+    21300112: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_56
+    21300114: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_57
+    21300116: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_58
+    21300118: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_59
+    21300120: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_60
+    21300122: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_61
+    21300124: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_62
+    21300126: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_63
+    21300128: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_64
+    21300130: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_65
+    21300132: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_66
+    21300134: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_67
+    21300136: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_68
+    21300138: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_69
+    21300140: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_70
+    21300142: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_71
+    21300144: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_72
+    21300146: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_73
+    21300148: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_74
+    21300150: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_75
+    21300152: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_76
+    21300154: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_77
+    21300156: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_78
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2587
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fda098ec83e6a64c8d223c7c146d480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_1
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2179
+        width: 154
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7507e93943ad9304c9166e7971d8dde6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2508
+        width: 441
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9ec3590fdb17b46b14af1c8c17f358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2442
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d96530b444c59b40952ad34bcf85934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2381
+        width: 275
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b008ce7fa6b0864496e8ecfc69371b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2321
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dd0c6bfa8d1554eb023bb42e26a5a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2261
+        width: 308
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82a421bb4adbd941a46aa514ad24aaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2178
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941af0bce39c0e54997211c2fa64b1e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_9
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2050
+        width: 404
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa02a5a2f45f6ac45aa89d6e2f0bfee8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2021
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c355215cec76a3b4bb1e711d1385bbc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2069
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6232970474a8142941f970c5186b09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_12
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2069
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dc83bbc7cafae42b52db571e0229f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_13
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2073
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4065f1e73601944acb82d4f06d2e45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2073
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436fee508b7f924499b37c1957b084bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_15
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2079
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23f13c150b920440aee83920313f1e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_16
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2079
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efce603dbb3b6c4396043096e4e7bb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_17
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2080
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a948e11587a464aaa23655d4884fc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_18
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2080
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab38a74606cd674aac3cfd56f37fcc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_19
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2081
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71759a574b2b2f049b0c14d7628064c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_20
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 2081
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282c2f8be4c5a4142a4be73a32eee44d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_21
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2046
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d59473bc74e42f4fa586621e7da6faf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_22
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2046
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a45728f49043f347b78b32e5646ddf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_23
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2042
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226b3526379928a459df787732465921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_24
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2042
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dea6337ba7d6243903824800f083bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_25
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2041
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5713d0cbc3c8264c8fd2f19769fc0fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_26
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2041
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498114a113cc70e4b83bf61a31d2e6e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_27
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2038
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025aaa8f5d6b3ab428382bf4694b46bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_28
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2038
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4550e6bf4a30974da72a32eda6abf91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_29
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2037
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc0dfe1e7e95074998b38acc2bd09bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_30
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 2037
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb55cf6b78a61954f91113423066f9b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1947
+        width: 319
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb6bee0ef3e6544185bf8375fd72ae3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1874
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2cea36cb5ac7a4d92f78a57782e431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1875
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45d9e6bd8795f641b5292404fce0d0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1875
+        width: 71
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5854f2918146448a20fd75a9ac56cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_35
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1875
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb84f2136b277d4889d2bfce468cd9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1860
+        width: 298
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33902888ac2a30a41b2240e319003b0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1736
+        width: 763
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fa4866bf8f68845b735e6f81a8304e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_38
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1755
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f78c9678c6c42143ba3b97e57bfa8ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_39
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1770
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57a886e9475cde41908e3bca7d1a972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1593
+        width: 453
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0100bc95c97a264aa8a7ba6b6be92a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_41
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1621
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f400d8d4758c3a42af7fc6e64455676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_42
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1625
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f44c043ada55c40a371f6d349ab328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1398
+        width: 409
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c47b23baed0394e9927539a689bc05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1306
+        width: 473
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b6541b23061e54888ecc44f9c2af9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1212
+        width: 396
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02aff959bd31d2479ed65dc26ba46a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_47
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1095
+        width: 399
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b686633e9f4d8b4d8a09d566ff842f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 988
+        width: 763
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525014eeab522544fa2a02dc85471898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 863
+        width: 450
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc88851e769c7542bca17c069cd6f39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_50
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 889
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aab30fc623e8f446a20138a3d4f0d89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_51
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 884
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f0a6d4aedbb8840a9cb28c36cd6081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_52
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 893
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28615b1565351eb45aaea35341a9d3c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 755
+        width: 193
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cee370c12e11e438a457e767817a20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 643
+        width: 763
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aff4cf73ef919a48ab30e02d731b292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 539
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381e71c349936ab4885d0755e1cd33b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_56
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 450
+        width: 91
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df372f7629d68574a871dce030b40c0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_57
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 334
+        width: 360
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63ec0a550d5e0842a8518cc04b7b4f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_58
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 234
+        width: 515
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527553a211ed19147ba5b200b978eea6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_59
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 126
+        width: 167
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dfb319a7c2c9a4d9b8ffb999345e01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 215
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3739406700fcd54fb42974b2c854fb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_61
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 37
+        width: 63
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708d99b0ed130324184020a32c35d575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_62
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 36
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96b05c11302b7845bd8af9d1269f2a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_63
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 27
+        width: 379
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230a29202623cf842b89b576f7b17e58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_64
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 37
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5b881cca26e8846b782acb8f3d86f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_65
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 37
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d5788e314f72a47a7c504e60e70b67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2095
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae46c707f169b3499451722dd0b3e26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_66
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2094
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4cb77da30068b48ab38e3c478ef7a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_67
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2093
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1929a271288817c4381cfa316f8bdd39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_68
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2094
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf791012e039c834f807237123313b7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_69
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2096
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f22fe7f18ede643941dd7edb7f0374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_70
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2096
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f13a36061362d459f97661eaf362be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1503
+        width: 43
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b6ef418cf5a0740a89b6b01fa6bc63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_71
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1502
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c9363939c56e240953854951a4fdb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_72
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1502
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabef5a0e2ecc8d4f813724276bacdcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_73
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1504
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6e8bc1e1d610b4e9a45cf526fae517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_74
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1505
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f560a9fbe039104a9f52ecfbaba9623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_75
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1503
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8763c18c6724d2a4382d359098812812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_76
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1502
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e5a6c8b0214154db485edb193bdb83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_77
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1503
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9831299c047b8774ea2fbe5c0bd08676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Ninja Warriors Ninja Warriors Again - KUNOICHI_78
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1503
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4da01051a7786f48b5bcb859360e627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -191.40102, y: -1253.2305}
+      - {x: -199.2133, y: -1274.0742}
+      - {x: -212.23378, y: -1253.2305}
+      - {x: -225.25426, y: -1237.5977}
+      - {x: -352.85495, y: -1237.5977}
+      - {x: -359.36517, y: -1244.1113}
+      - {x: -367.17746, y: -1279.2852}
+      - {x: -367.17746, y: -1320.9727}
+      - {x: -148.43344, y: -1320.9727}
+      - {x: -148.43344, y: -1298.8262}
+      - {x: -171.8703, y: -1261.0469}
+    - - {x: -18.228668, y: -1270.166}
+      - {x: -85.93515, y: -1274.0742}
+      - {x: -85.93515, y: -1301.4316}
+      - {x: -57.2901, y: -1309.248}
+      - {x: 347.64676, y: -1309.248}
+      - {x: 378.8959, y: -1306.6426}
+      - {x: 378.8959, y: -1271.4688}
+      - {x: 376.2918, y: -1270.166}
+    - - {x: 177.07849, y: -1293.6152}
+      - {x: 174.4744, y: -1293.6152}
+      - {x: 173.17235, y: -1294.918}
+      - {x: 170.56825, y: -1292.3125}
+      - {x: 167.96416, y: -1292.3125}
+      - {x: 162.75597, y: -1300.1289}
+      - {x: 166.66211, y: -1297.5234}
+    - - {x: -128.90273, y: -1274.0742}
+      - {x: -143.22525, y: -1276.6797}
+      - {x: -154.94368, y: -1285.7988}
+      - {x: -154.94368, y: -1296.2207}
+      - {x: -147.1314, y: -1298.8262}
+      - {x: -93.74744, y: -1298.8262}
+      - {x: -87.2372, y: -1293.6152}
+      - {x: -87.2372, y: -1276.6797}
+      - {x: -93.74744, y: -1274.0742}
+    - - {x: 360.66724, y: -1287.1016}
+      - {x: 358.06314, y: -1287.1016}
+    - - {x: -233.06654, y: -1139.8926}
+      - {x: -246.08702, y: -1142.498}
+      - {x: -253.8993, y: -1150.3145}
+      - {x: -253.8993, y: -1160.7363}
+      - {x: -253.8993, y: -1147.709}
+      - {x: -264.3157, y: -1139.8926}
+      - {x: -282.54437, y: -1139.8926}
+      - {x: -305.98123, y: -1152.9199}
+      - {x: -308.58533, y: -1172.4609}
+      - {x: -309.88736, y: -1152.9199}
+      - {x: -326.814, y: -1139.8926}
+      - {x: -358.06314, y: -1139.8926}
+      - {x: -373.6877, y: -1143.8008}
+      - {x: -373.6877, y: -1210.2402}
+      - {x: -201.8174, y: -1210.2402}
+      - {x: -201.8174, y: -1167.25}
+      - {x: -209.62968, y: -1139.8926}
+    - - {x: 82.02901, y: -1027.8574}
+      - {x: 70.31058, y: -1038.2793}
+      - {x: -5.208191, y: -1034.3711}
+      - {x: -31.249146, y: -1059.123}
+      - {x: -27.343002, y: -1047.3984}
+      - {x: -91.14334, y: -1029.1602}
+      - {x: -115.88225, y: -1035.6738}
+      - {x: -113.27815, y: -1043.4902}
+      - {x: -113.27815, y: -1050.0039}
+      - {x: -110.67406, y: -1056.5176}
+      - {x: -106.767914, y: -1059.123}
+      - {x: -113.27815, y: -1053.9121}
+      - {x: -113.27815, y: -1050.0039}
+      - {x: -115.88225, y: -1047.3984}
+      - {x: -178.38054, y: -1020.041}
+      - {x: -191.40102, y: -1020.041}
+      - {x: -199.2133, y: -1034.3711}
+      - {x: -182.28668, y: -1056.5176}
+      - {x: -233.06654, y: -1064.334}
+      - {x: -239.57678, y: -1063.0312}
+      - {x: -236.97269, y: -1063.0312}
+      - {x: -194.00511, y: -1052.6094}
+      - {x: -191.40102, y: -1051.3066}
+      - {x: -194.00511, y: -1042.1875}
+      - {x: -252.59726, y: -1020.041}
+      - {x: -265.61774, y: -1020.041}
+      - {x: -277.33618, y: -1023.9492}
+      - {x: -270.82593, y: -1048.7012}
+      - {x: -277.33618, y: -1026.5547}
+      - {x: -286.4505, y: -1020.041}
+      - {x: -309.88736, y: -1020.041}
+      - {x: -324.2099, y: -1023.9492}
+      - {x: -325.51193, y: -1050.0039}
+      - {x: -320.30374, y: -1057.8203}
+      - {x: -324.2099, y: -1052.6094}
+      - {x: -330.72012, y: -1046.0957}
+      - {x: -326.814, y: -1042.1875}
+      - {x: -330.72012, y: -1020.041}
+      - {x: -352.85495, y: -1020.041}
+      - {x: -372.38565, y: -1022.6465}
+      - {x: -377.59384, y: -1044.793}
+      - {x: -377.59384, y: -1102.1133}
+      - {x: 140.62115, y: -1102.1133}
+      - {x: 141.9232, y: -1100.8105}
+      - {x: 141.9232, y: -1046.0957}
+    - - {x: -252.59726, y: -1091.6914}
+      - {x: -248.69112, y: -1090.3887}
+      - {x: -243.48293, y: -1083.875}
+      - {x: -243.48293, y: -1091.6914}
+    - - {x: -170.56825, y: -1094.2969}
+      - {x: -166.66211, y: -1090.3887}
+      - {x: -178.38054, y: -1092.9941}
+      - {x: -177.07849, y: -1094.2969}
+    - - {x: -88.539246, y: -1094.2969}
+      - {x: -84.6331, y: -1090.3887}
+      - {x: -96.35153, y: -1092.9941}
+      - {x: -95.049484, y: -1094.2969}
+    - - {x: -2.6040955, y: -1094.2969}
+      - {x: 1.3020477, y: -1090.3887}
+      - {x: -10.416382, y: -1092.9941}
+      - {x: -9.114334, y: -1094.2969}
+    - - {x: 78.12286, y: -1094.2969}
+      - {x: 85.93515, y: -1086.4805}
+      - {x: 84.6331, y: -1086.4805}
+      - {x: 85.93515, y: -1087.7832}
+      - {x: 87.2372, y: -1091.6914}
+      - {x: 70.31058, y: -1092.9941}
+      - {x: 71.612625, y: -1094.2969}
+    - - {x: -269.5239, y: -934.06055}
+      - {x: -282.54437, y: -948.3906}
+      - {x: -281.2423, y: -967.93164}
+      - {x: -270.82593, y: -978.3535}
+      - {x: -287.75256, y: -984.8672}
+      - {x: -282.54437, y: -957.50977}
+      - {x: -283.8464, y: -927.5469}
+      - {x: -286.4505, y: -923.6387}
+      - {x: -319.0017, y: -918.42773}
+      - {x: -326.814, y: -950.9961}
+      - {x: -325.51193, y: -930.15234}
+      - {x: -338.5324, y: -915.82227}
+      - {x: -369.78156, y: -915.82227}
+      - {x: -369.78156, y: -1001.80273}
+      - {x: -5.208191, y: -1001.80273}
+      - {x: -5.208191, y: -977.0508}
+      - {x: -41.665527, y: -940.5742}
+    - - {x: -350.25085, y: -983.56445}
+      - {x: -346.3447, y: -982.2617}
+      - {x: -346.3447, y: -979.65625}
+      - {x: -348.9488, y: -983.56445}
+    - - {x: -300.77304, y: -822.0254}
+      - {x: -325.51193, y: -822.0254}
+      - {x: -333.32422, y: -833.75}
+      - {x: -332.0222, y: -850.68555}
+      - {x: -334.62628, y: -837.6582}
+      - {x: -332.0222, y: -827.2363}
+      - {x: -338.5324, y: -822.0254}
+      - {x: -363.27133, y: -822.0254}
+      - {x: -373.6877, y: -827.2363}
+      - {x: -373.6877, y: -848.0801}
+      - {x: -369.78156, y: -866.31836}
+      - {x: -368.47952, y: -870.22656}
+      - {x: -373.6877, y: -876.74023}
+      - {x: -373.6877, y: -885.8594}
+      - {x: -278.6382, y: -885.8594}
+      - {x: -278.6382, y: -842.86914}
+      - {x: -279.94028, y: -831.14453}
+    - - {x: -376.2918, y: -713.89844}
+      - {x: -376.2918, y: -797.27344}
+      - {x: -286.4505, y: -797.27344}
+      - {x: -286.4505, y: -721.71484}
+      - {x: -300.77304, y: -713.89844}
+    - - {x: -351.5529, y: -782.94336}
+      - {x: -348.9488, y: -785.5488}
+      - {x: -348.9488, y: -786.85156}
+      - {x: -350.25085, y: -786.85156}
+    - - {x: 196.6092, y: -655.2754}
+      - {x: 188.79692, y: -673.5137}
+      - {x: 183.58873, y: -660.4863}
+      - {x: 218.74402, y: -613.5879}
+      - {x: 213.53583, y: -609.6797}
+      - {x: -210.93173, y: -609.6797}
+      - {x: -223.95221, y: -650.06445}
+      - {x: -218.74402, y: -660.4863}
+      - {x: -231.7645, y: -673.5137}
+      - {x: -230.46245, y: -667}
+      - {x: -233.06654, y: -624.00977}
+      - {x: -296.86688, y: -624.00977}
+      - {x: -300.77304, y: -650.06445}
+      - {x: -291.6587, y: -659.1836}
+      - {x: -303.37714, y: -667}
+      - {x: -309.88736, y: -638.33984}
+      - {x: -341.1365, y: -609.6797}
+      - {x: -376.2918, y: -609.6797}
+      - {x: -381.5, y: -630.52344}
+      - {x: -381.5, y: -693.0547}
+      - {x: 277.33618, y: -693.0547}
+      - {x: 277.33618, y: -631.8262}
+      - {x: 214.83788, y: -624.00977}
+    - - {x: -360.66724, y: -681.3301}
+      - {x: -356.76108, y: -681.3301}
+      - {x: -352.85495, y: -677.4219}
+      - {x: -354.15698, y: -677.4219}
+      - {x: -354.15698, y: -681.3301}
+      - {x: -352.85495, y: -682.6328}
+      - {x: -364.57336, y: -683.93555}
+      - {x: -363.27133, y: -683.93555}
+    - - {x: -290.35666, y: -683.93555}
+      - {x: -287.75256, y: -681.3301}
+      - {x: -283.8464, y: -681.3301}
+      - {x: -279.94028, y: -677.4219}
+      - {x: -281.2423, y: -677.4219}
+      - {x: -281.2423, y: -681.3301}
+      - {x: -279.94028, y: -682.6328}
+      - {x: -291.6587, y: -683.93555}
+    - - {x: -214.83788, y: -681.3301}
+      - {x: -212.23378, y: -681.3301}
+      - {x: -208.32764, y: -677.4219}
+      - {x: -209.62968, y: -677.4219}
+      - {x: -209.62968, y: -681.3301}
+      - {x: -208.32764, y: -682.6328}
+      - {x: -220.04607, y: -683.93555}
+      - {x: -218.74402, y: -683.93555}
+    - - {x: -132.80887, y: -685.2383}
+      - {x: -124.99658, y: -677.4219}
+      - {x: -126.29863, y: -677.4219}
+      - {x: -124.99658, y: -678.7246}
+      - {x: -123.694534, y: -682.6328}
+      - {x: -140.62115, y: -683.93555}
+      - {x: -139.3191, y: -685.2383}
+    - - {x: -58.592148, y: -685.2383}
+      - {x: -54.686005, y: -681.3301}
+      - {x: -66.404434, y: -683.93555}
+      - {x: -65.10239, y: -685.2383}
+    - - {x: 27.343002, y: -685.2383}
+      - {x: 33.85324, y: -678.7246}
+      - {x: 20.832764, y: -683.93555}
+      - {x: 22.134811, y: -685.2383}
+    - - {x: 115.88225, y: -685.2383}
+      - {x: 123.694534, y: -677.4219}
+      - {x: 122.39249, y: -677.4219}
+      - {x: 123.694534, y: -678.7246}
+      - {x: 124.99658, y: -682.6328}
+      - {x: 109.37201, y: -683.93555}
+      - {x: 110.67406, y: -685.2383}
+    - - {x: 208.32764, y: -685.2383}
+      - {x: 216.13992, y: -677.4219}
+      - {x: 214.83788, y: -677.4219}
+      - {x: 216.13992, y: -678.7246}
+      - {x: 216.13992, y: -681.3301}
+      - {x: 217.44197, y: -682.6328}
+      - {x: 200.51535, y: -683.93555}
+      - {x: 201.8174, y: -685.2383}
+    - - {x: -101.55972, y: -638.33984}
+      - {x: -98.95563, y: -637.0371}
+      - {x: -100.257675, y: -638.33984}
+      - {x: -101.55972, y: -643.5508}
+    - - {x: -231.7645, y: -495.03906}
+      - {x: -231.7645, y: -496.3418}
+      - {x: -279.94028, y: -508.0664}
+      - {x: -281.2423, y: -547.14844}
+      - {x: -283.8464, y: -525.00195}
+      - {x: -302.07507, y: -509.36914}
+      - {x: -312.49146, y: -511.9746}
+      - {x: -324.2099, y: -532.81836}
+      - {x: -324.2099, y: -544.54297}
+      - {x: -319.0017, y: -552.3594}
+      - {x: -312.49146, y: -558.87305}
+      - {x: -316.3976, y: -562.78125}
+      - {x: -324.2099, y: -547.14844}
+      - {x: -324.2099, y: -540.63477}
+      - {x: -326.814, y: -521.09375}
+      - {x: -333.32422, y: -506.76367}
+      - {x: -373.6877, y: -527.6074}
+      - {x: -381.5, y: -556.2676}
+      - {x: -381.5, y: -581.01953}
+      - {x: -186.19283, y: -581.01953}
+      - {x: -184.89078, y: -579.7168}
+      - {x: -184.89078, y: -544.54297}
+      - {x: -192.70306, y: -495.03906}
+    - - {x: -351.5529, y: -566.68945}
+      - {x: -355.45905, y: -570.59766}
+    - - {x: -210.93173, y: -557.5703}
+      - {x: -210.93173, y: -565.3867}
+    - - {x: 66.404434, y: -402.54492}
+      - {x: 40.36348, y: -390.8203}
+      - {x: 11.71843, y: -402.54492}
+      - {x: 16.92662, y: -399.93945}
+      - {x: -14.322525, y: -373.88477}
+      - {x: -15.624573, y: -373.88477}
+      - {x: -29.947098, y: -383.0039}
+      - {x: -35.15529, y: -392.12305}
+      - {x: -35.15529, y: -406.45312}
+      - {x: -33.85324, y: -424.6914}
+      - {x: -35.15529, y: -415.57227}
+      - {x: -49.477814, y: -375.1875}
+      - {x: -49.477814, y: -373.88477}
+      - {x: -166.66211, y: -373.88477}
+      - {x: -195.30716, y: -388.21484}
+      - {x: -186.19283, y: -419.48047}
+      - {x: -188.79692, y: -444.23242}
+      - {x: -187.49487, y: -433.81055}
+      - {x: -188.79692, y: -422.08594}
+      - {x: -201.8174, y: -403.84766}
+      - {x: -229.1604, y: -412.9668}
+      - {x: -229.1604, y: -445.53516}
+      - {x: -235.67064, y: -411.66406}
+      - {x: -273.43002, y: -397.33398}
+      - {x: -287.75256, y: -405.1504}
+      - {x: -286.4505, y: -429.90234}
+      - {x: -287.75256, y: -418.17773}
+      - {x: -287.75256, y: -380.39844}
+      - {x: -313.79352, y: -386.9121}
+      - {x: -324.2099, y: -394.72852}
+      - {x: -330.72012, y: -410.36133}
+      - {x: -329.4181, y: -406.45312}
+      - {x: -339.83447, y: -383.0039}
+      - {x: -381.5, y: -390.8203}
+      - {x: -381.5, y: -472.89258}
+      - {x: 72.91467, y: -472.89258}
+      - {x: 72.91467, y: -449.44336}
+    - - {x: -55.988052, y: -450.7461}
+      - {x: -55.988052, y: -449.44336}
+      - {x: -54.686005, y: -462.4707}
+    - - {x: 0, y: -450.7461}
+      - {x: 0, y: -449.44336}
+      - {x: 1.3020477, y: -462.4707}
+    - - {x: 50.77986, y: -449.44336}
+      - {x: 50.77986, y: -453.35156}
+    - - {x: 85.93515, y: -416.875}
+      - {x: 80.72696, y: -425.99414}
+      - {x: 80.72696, y: -445.53516}
+      - {x: 84.6331, y: -448.14062}
+      - {x: 101.55972, y: -452.04883}
+      - {x: 136.71501, y: -452.04883}
+      - {x: 136.71501, y: -419.48047}
+      - {x: 131.50682, y: -416.875}
+    - - {x: 140.62115, y: -423.38867}
+      - {x: 135.41296, y: -425.99414}
+      - {x: 135.41296, y: -436.41602}
+      - {x: 143.22525, y: -442.9297}
+      - {x: 149.73549, y: -442.9297}
+      - {x: 156.24573, y: -439.02148}
+      - {x: 156.24573, y: -431.20508}
+      - {x: 148.43344, y: -423.38867}
+    - - {x: 329.4181, y: -290.50977}
+      - {x: 328.11603, y: -303.5371}
+      - {x: 330.72012, y: -312.65625}
+      - {x: 326.814, y: -304.83984}
+      - {x: 325.51193, y: -297.02344}
+      - {x: 316.3976, y: -283.9961}
+      - {x: 279.94028, y: -281.39062}
+      - {x: 260.40955, y: -303.5371}
+      - {x: 263.01364, y: -313.95898}
+      - {x: 259.1075, y: -306.14258}
+      - {x: 261.7116, y: -281.39062}
+      - {x: 238.27473, y: -276.1797}
+      - {x: 212.23378, y: -285.29883}
+      - {x: 191.40102, y: -303.5371}
+      - {x: 194.00511, y: -313.95898}
+      - {x: 191.40102, y: -329.5918}
+      - {x: 174.4744, y: -320.47266}
+      - {x: 167.96416, y: -312.65625}
+      - {x: 178.38054, y: -320.47266}
+      - {x: 186.19283, y: -323.07812}
+      - {x: 190.09897, y: -313.95898}
+      - {x: 196.6092, y: -268.36328}
+      - {x: 187.49487, y: -261.8496}
+      - {x: 95.049484, y: -261.8496}
+      - {x: 66.404434, y: -300.93164}
+      - {x: 69.00853, y: -311.35352}
+      - {x: 62.49829, y: -329.5918}
+      - {x: 67.70648, y: -285.29883}
+      - {x: 40.36348, y: -261.8496}
+      - {x: -169.2662, y: -261.8496}
+      - {x: -164.05801, y: -281.39062}
+      - {x: -166.66211, y: -324.38086}
+      - {x: -165.36006, y: -293.11523}
+      - {x: -174.4744, y: -276.1797}
+      - {x: -186.19283, y: -261.8496}
+      - {x: -191.40102, y: -261.8496}
+      - {x: -217.44197, y: -281.39062}
+      - {x: -244.78497, y: -265.7578}
+      - {x: -263.01364, y: -273.57422}
+      - {x: -273.43002, y: -286.60156}
+      - {x: -273.43002, y: -272.27148}
+      - {x: -313.79352, y: -264.45508}
+      - {x: -324.2099, y: -268.36328}
+      - {x: -328.11603, y: -295.7207}
+      - {x: -326.814, y: -286.60156}
+      - {x: -326.814, y: -281.39062}
+      - {x: -329.4181, y: -278.78516}
+      - {x: -335.9283, y: -278.78516}
+      - {x: -347.64676, y: -265.7578}
+      - {x: -376.2918, y: -268.36328}
+      - {x: -381.5, y: -294.41797}
+      - {x: -381.5, y: -347.83008}
+      - {x: 381.5, y: -347.83008}
+      - {x: 381.5, y: -294.41797}
+      - {x: 369.78156, y: -276.1797}
+    - - {x: -311.18942, y: -337.4082}
+      - {x: -312.49146, y: -337.4082}
+    - - {x: -256.50342, y: -337.4082}
+      - {x: -252.59726, y: -332.19727}
+      - {x: -256.50342, y: -336.10547}
+      - {x: -259.1075, y: -337.4082}
+    - - {x: -200.51535, y: -337.4082}
+      - {x: -196.6092, y: -332.19727}
+      - {x: -200.51535, y: -336.10547}
+      - {x: -203.11945, y: -337.4082}
+    - - {x: -154.94368, y: -337.4082}
+      - {x: -151.03754, y: -333.5}
+      - {x: -154.94368, y: -337.4082}
+      - {x: -156.24573, y: -337.4082}
+    - - {x: -105.465866, y: -337.4082}
+      - {x: -101.55972, y: -337.4082}
+      - {x: -96.35153, y: -332.19727}
+      - {x: -97.65358, y: -332.19727}
+      - {x: -97.65358, y: -336.10547}
+      - {x: -96.35153, y: -337.4082}
+      - {x: -108.06996, y: -338.71094}
+      - {x: -106.767914, y: -338.71094}
+    - - {x: -44.269623, y: -337.4082}
+      - {x: -40.36348, y: -337.4082}
+      - {x: -35.15529, y: -332.19727}
+      - {x: -36.457336, y: -332.19727}
+      - {x: -36.457336, y: -336.10547}
+      - {x: -35.15529, y: -337.4082}
+      - {x: -46.87372, y: -338.71094}
+      - {x: -45.57167, y: -338.71094}
+    - - {x: 16.92662, y: -337.4082}
+      - {x: 20.832764, y: -337.4082}
+      - {x: 26.040955, y: -332.19727}
+      - {x: 24.738907, y: -332.19727}
+      - {x: 24.738907, y: -336.10547}
+      - {x: 26.040955, y: -337.4082}
+      - {x: 14.322525, y: -338.71094}
+      - {x: 15.624573, y: -338.71094}
+    - - {x: 85.93515, y: -337.4082}
+      - {x: 93.74744, y: -329.5918}
+      - {x: 92.44539, y: -329.5918}
+      - {x: 93.74744, y: -330.89453}
+    - - {x: 158.84982, y: -333.5}
+      - {x: 160.15187, y: -336.10547}
+      - {x: 161.45392, y: -337.4082}
+      - {x: 151.03754, y: -338.71094}
+      - {x: 152.33958, y: -340.01367}
+    - - {x: 218.74402, y: -332.19727}
+      - {x: 217.44197, y: -332.19727}
+      - {x: 218.74402, y: -333.5}
+      - {x: 220.04607, y: -337.4082}
+      - {x: 209.62968, y: -338.71094}
+      - {x: 210.93173, y: -340.01367}
+    - - {x: 287.75256, y: -332.19727}
+      - {x: 286.4505, y: -332.19727}
+      - {x: 287.75256, y: -333.5}
+      - {x: 289.0546, y: -337.4082}
+      - {x: 278.6382, y: -338.71094}
+      - {x: 279.94028, y: -340.01367}
+    - - {x: 351.5529, y: -336.10547}
+      - {x: 346.3447, y: -338.71094}
+      - {x: 347.64676, y: -340.01367}
+    - - {x: -131.50682, y: -157.63086}
+      - {x: -149.73549, y: -214.95117}
+      - {x: -174.4744, y: -211.04297}
+      - {x: -167.96416, y: -204.5293}
+      - {x: -167.96416, y: -195.41016}
+      - {x: -166.66211, y: -209.74023}
+      - {x: -164.05801, y: -212.3457}
+      - {x: -158.84982, y: -212.3457}
+      - {x: -154.94368, y: -207.13477}
+      - {x: -157.54778, y: -166.75}
+      - {x: -183.58873, y: -157.63086}
+      - {x: -196.6092, y: -157.63086}
+      - {x: -208.32764, y: -173.26367}
+      - {x: -210.93173, y: -186.29102}
+      - {x: -218.74402, y: -165.44727}
+      - {x: -227.85835, y: -157.63086}
+      - {x: -268.22183, y: -157.63086}
+      - {x: -273.43002, y: -158.9336}
+      - {x: -265.61774, y: -195.41016}
+      - {x: -380.19794, y: -222.76758}
+      - {x: -380.19794, y: -231.88672}
+      - {x: -378.8959, y: -234.49219}
+      - {x: -343.7406, y: -241.00586}
+      - {x: -19.530716, y: -241.00586}
+      - {x: 22.134811, y: -233.18945}
+      - {x: 22.134811, y: -157.63086}
+    - - {x: -338.5324, y: -160.23633}
+      - {x: -368.47952, y: -160.23633}
+      - {x: -373.6877, y: -165.44727}
+      - {x: -373.6877, y: -188.89648}
+      - {x: -368.47952, y: -207.13477}
+      - {x: -358.06314, y: -221.46484}
+      - {x: -332.0222, y: -221.46484}
+      - {x: -324.2099, y: -209.74023}
+      - {x: -324.2099, y: -166.75}
+      - {x: -325.51193, y: -164.14453}
+    - - {x: -303.37714, y: -157.63086}
+      - {x: -312.49146, y: -166.75}
+      - {x: -312.49146, y: -201.92383}
+      - {x: -303.37714, y: -220.16211}
+      - {x: -287.75256, y: -220.16211}
+      - {x: -270.82593, y: -209.74023}
+      - {x: -270.82593, y: -157.63086}
+    - - {x: -315.09555, y: -69.04492}
+      - {x: -321.6058, y: -71.65039}
+      - {x: -317.69965, y: -87.2832}
+      - {x: -316.3976, y: -91.19141}
+      - {x: -329.4181, y: -78.16406}
+      - {x: -339.83447, y: -69.04492}
+      - {x: -369.78156, y: -69.04492}
+      - {x: -380.19794, y: -74.25586}
+      - {x: -380.19794, y: -123.759766}
+      - {x: 3.9061432, y: -123.759766}
+      - {x: 19.530716, y: -122.45703}
+      - {x: 19.530716, y: -69.04492}
+    - - {x: -175.77644, y: -108.12695}
+      - {x: -177.07849, y: -104.21875}
+      - {x: -174.4744, y: -106.82422}
+      - {x: -173.17235, y: -113.33789}
+    - - {x: 3.9061432, y: 23.449219}
+      - {x: -1.3020477, y: 6.513672}
+      - {x: -1.3020477, y: -10.421875}
+      - {x: -1.3020477, y: 3.9082031}
+      - {x: -5.208191, y: 13.027344}
+      - {x: -48.175766, y: 23.449219}
+      - {x: -61.196243, y: 23.449219}
+      - {x: -71.612625, y: 13.027344}
+      - {x: -72.91467, y: -6.513672}
+      - {x: -75.51877, y: 14.330078}
+      - {x: -83.331055, y: 20.84375}
+      - {x: -93.74744, y: 23.449219}
+      - {x: -101.55972, y: 23.449219}
+      - {x: -114.5802, y: 9.119141}
+      - {x: -114.5802, y: -2.6054688}
+      - {x: -119.78839, y: 18.238281}
+      - {x: -132.80887, y: 23.449219}
+      - {x: -143.22525, y: 23.449219}
+      - {x: -170.56825, y: 9.119141}
+      - {x: -169.2662, y: 11.724609}
+      - {x: -180.98463, y: 23.449219}
+      - {x: -216.13992, y: 23.449219}
+      - {x: -227.85835, y: 19.541016}
+      - {x: -257.80545, y: 23.449219}
+      - {x: -274.7321, y: 23.449219}
+      - {x: -294.2628, y: 10.421875}
+      - {x: -298.16895, y: 5.2109375}
+      - {x: -298.16895, y: -3.9082031}
+      - {x: -298.16895, y: 11.724609}
+      - {x: -303.37714, y: 19.541016}
+      - {x: -313.79352, y: 23.449219}
+      - {x: -321.6058, y: 23.449219}
+      - {x: -324.2099, y: 20.84375}
+      - {x: -333.32422, y: 2.6054688}
+      - {x: -337.23038, y: 14.330078}
+      - {x: -347.64676, y: 22.146484}
+      - {x: -367.17746, y: 23.449219}
+      - {x: -371.08362, y: 22.146484}
+      - {x: -380.19794, y: -7.8164062}
+      - {x: -380.19794, y: -27.357422}
+      - {x: -378.8959, y: -29.96289}
+      - {x: 96.35153, y: -29.96289}
+      - {x: 96.35153, y: 14.330078}
+      - {x: 76.820816, y: 23.449219}
+    - - {x: 41.665527, y: -15.6328125}
+      - {x: 49.477814, y: -2.6054688}
+      - {x: 50.77986, y: -13.027344}
+      - {x: 55.988052, y: -18.238281}
+    - - {x: -260.40955, y: 134.18164}
+      - {x: -264.3157, y: 130.27344}
+      - {x: -263.01364, y: 115.94336}
+      - {x: -272.128, y: 132.8789}
+      - {x: -281.2423, y: 134.18164}
+      - {x: -312.49146, y: 134.18164}
+      - {x: -322.90784, y: 114.640625}
+      - {x: -329.4181, y: 128.9707}
+      - {x: -373.6877, y: 134.18164}
+      - {x: -381.5, y: 112.03516}
+      - {x: -363.27133, y: 100.31055}
+      - {x: -360.66724, y: 99.00781}
+      - {x: -360.66724, y: 100.31055}
+      - {x: -363.27133, y: 99.00781}
+      - {x: -368.47952, y: 93.796875}
+      - {x: -381.5, y: 71.65039}
+      - {x: -381.5, y: 62.53125}
+      - {x: 31.249146, y: 62.53125}
+      - {x: 31.249146, y: 134.18164}
+    - - {x: -248.69112, y: 71.65039}
+      - {x: -238.27473, y: 82.072266}
+      - {x: -239.57678, y: 84.677734}
+      - {x: -239.57678, y: 79.4668}
+      - {x: -243.48293, y: 72.953125}
+      - {x: -249.99316, y: 71.65039}
+    - - {x: -195.30716, y: 71.65039}
+      - {x: -190.09897, y: 72.953125}
+      - {x: -197.91125, y: 71.65039}
+    - - {x: -132.80887, y: 71.65039}
+      - {x: -121.09044, y: 84.677734}
+      - {x: -123.694534, y: 83.375}
+      - {x: -124.99658, y: 75.55859}
+      - {x: -127.60068, y: 72.953125}
+      - {x: -134.11092, y: 71.65039}
+    - - {x: -39.06143, y: 71.65039}
+      - {x: -33.85324, y: 72.953125}
+      - {x: -41.665527, y: 71.65039}
+    - - {x: 101.55972, y: 247.51953}
+      - {x: 91.14334, y: 248.82227}
+      - {x: 71.612625, y: 248.82227}
+      - {x: 67.70648, y: 212.3457}
+      - {x: 67.70648, y: 225.37305}
+      - {x: 66.404434, y: 233.18945}
+      - {x: 41.665527, y: 246.2168}
+      - {x: 33.85324, y: 248.82227}
+      - {x: 11.71843, y: 248.82227}
+      - {x: 6.5102386, y: 241.00586}
+      - {x: 10.416382, y: 231.88672}
+      - {x: 10.416382, y: 220.16211}
+      - {x: 9.114334, y: 213.64844}
+      - {x: 10.416382, y: 226.67578}
+      - {x: 10.416382, y: 229.28125}
+      - {x: 7.8122864, y: 235.79492}
+      - {x: -11.71843, y: 248.82227}
+      - {x: -50.77986, y: 248.82227}
+      - {x: -69.00853, y: 242.3086}
+      - {x: -61.196243, y: 218.85938}
+      - {x: -66.404434, y: 233.18945}
+      - {x: -75.51877, y: 248.82227}
+      - {x: -105.465866, y: 248.82227}
+      - {x: -110.67406, y: 237.09766}
+      - {x: -113.27815, y: 220.16211}
+      - {x: -106.767914, y: 179.77734}
+      - {x: -113.27815, y: 217.55664}
+      - {x: -111.976105, y: 239.70312}
+      - {x: -123.694534, y: 248.82227}
+      - {x: -135.41296, y: 248.82227}
+      - {x: -160.15187, y: 231.88672}
+      - {x: -158.84982, y: 212.3457}
+      - {x: -161.45392, y: 230.58398}
+      - {x: -157.54778, y: 235.79492}
+      - {x: -183.58873, y: 248.82227}
+      - {x: -196.6092, y: 248.82227}
+      - {x: -210.93173, y: 238.40039}
+      - {x: -217.44197, y: 224.07031}
+      - {x: -217.44197, y: 212.3457}
+      - {x: -217.44197, y: 227.97852}
+      - {x: -251.29521, y: 248.82227}
+      - {x: -272.128, y: 248.82227}
+      - {x: -291.6587, y: 233.18945}
+      - {x: -287.75256, y: 212.3457}
+      - {x: -292.96075, y: 234.49219}
+      - {x: -302.07507, y: 248.82227}
+      - {x: -381.5, y: 248.82227}
+      - {x: -381.5, y: 170.6582}
+      - {x: 117.184296, y: 170.6582}
+      - {x: 117.184296, y: 184.98828}
+      - {x: 110.67406, y: 234.49219}
+    - - {x: 42.967575, y: 346.52734}
+      - {x: 40.36348, y: 342.61914}
+      - {x: 28.64505, y: 329.5918}
+      - {x: 19.530716, y: 313.95898}
+      - {x: -381.5, y: 265.7578}
+      - {x: -381.5, y: 256.63867}
+      - {x: 75.51877, y: 256.63867}
+      - {x: 75.51877, y: 346.52734}
+    - - {x: -371.08362, y: 334.80273}
+      - {x: -377.59384, y: 325.6836}
+      - {x: -377.59384, y: 295.7207}
+      - {x: -351.5529, y: 267.06055}
+      - {x: -326.814, y: 267.06055}
+      - {x: -326.814, y: 294.41797}
+      - {x: -332.0222, y: 320.47266}
+      - {x: -342.43857, y: 326.98633}
+      - {x: -359.36517, y: 334.80273}
+    - - {x: -24.738907, y: 341.3164}
+      - {x: -55.988052, y: 316.56445}
+      - {x: -55.988052, y: 270.96875}
+      - {x: -28.64505, y: 270.96875}
+      - {x: 10.416382, y: 313.95898}
+      - {x: 10.416382, y: 340.01367}
+      - {x: 9.114334, y: 341.3164}
+    - - {x: -203.11945, y: 362.16016}
+      - {x: -217.44197, y: 362.16016}
+      - {x: -230.46245, y: 351.73828}
+      - {x: -248.69112, y: 324.38086}
+      - {x: -248.69112, y: 287.9043}
+      - {x: -243.48293, y: 285.29883}
+      - {x: -194.00511, y: 285.29883}
+      - {x: -194.00511, y: 358.25195}
+      - {x: -195.30716, y: 359.5547}
+    - - {x: -251.29521, y: 300.93164}
+      - {x: -251.29521, y: 324.38086}
+      - {x: -255.20135, y: 330.89453}
+      - {x: -296.86688, y: 330.89453}
+      - {x: -317.69965, y: 321.7754}
+      - {x: -317.69965, y: 304.83984}
+      - {x: -308.58533, y: 286.60156}
+      - {x: -278.6382, y: 286.60156}
+      - {x: -274.7321, y: 293.11523}
+      - {x: -274.7321, y: 295.7207}
+      - {x: -260.40955, y: 293.11523}
+    - - {x: -149.73549, y: 375.1875}
+      - {x: -196.6092, y: 375.1875}
+      - {x: -196.6092, y: 289.20703}
+      - {x: -144.5273, y: 289.20703}
+      - {x: -140.62115, y: 293.11523}
+      - {x: -140.62115, y: 366.06836}
+    - - {x: -92.44539, y: 345.2246}
+      - {x: -131.50682, y: 345.2246}
+      - {x: -138.01706, y: 342.61914}
+      - {x: -138.01706, y: 299.6289}
+      - {x: -135.41296, y: 290.50977}
+      - {x: -80.72696, y: 290.50977}
+      - {x: -59.894196, y: 307.4453}
+      - {x: -59.894196, y: 325.6836}
+      - {x: -63.80034, y: 328.28906}
+    - - {x: 122.39249, y: 462.4707}
+      - {x: 124.99658, y: 440.32422}
+      - {x: 102.86177, y: 492.4336}
+      - {x: 96.35153, y: 495.03906}
+      - {x: -191.40102, y: 495.03906}
+      - {x: -381.5, y: 491.13086}
+      - {x: -381.5, y: 399.93945}
+      - {x: 177.07849, y: 399.93945}
+      - {x: 177.07849, y: 461.16797}
+      - {x: 147.1314, y: 491.13086}
+    - - {x: 1.3020477, y: 437.71875}
+      - {x: 33.85324, y: 411.66406}
+      - {x: 54.686005, y: 411.66406}
+      - {x: 54.686005, y: 452.04883}
+      - {x: 36.457336, y: 487.22266}
+      - {x: -10.416382, y: 487.22266}
+      - {x: -10.416382, y: 462.4707}
+    - - {x: -328.11603, y: 472.89258}
+      - {x: -329.4181, y: 468.98438}
+      - {x: -329.4181, y: 440.32422}
+      - {x: -315.09555, y: 414.26953}
+      - {x: -282.54437, y: 414.26953}
+      - {x: -282.54437, y: 444.23242}
+      - {x: -287.75256, y: 465.07617}
+      - {x: -296.86688, y: 472.89258}
+    - - {x: -269.5239, y: 479.40625}
+      - {x: -278.6382, y: 454.6543}
+      - {x: -278.6382, y: 425.99414}
+      - {x: -265.61774, y: 416.875}
+      - {x: -230.46245, y: 416.875}
+      - {x: -223.95221, y: 427.29688}
+      - {x: -223.95221, y: 479.40625}
+    - - {x: -179.68259, y: 519.791}
+      - {x: -183.58873, y: 515.8828}
+      - {x: -183.58873, y: 506.76367}
+      - {x: -195.30716, y: 519.791}
+      - {x: -208.32764, y: 518.4883}
+      - {x: -218.74402, y: 467.68164}
+      - {x: -218.74402, y: 419.48047}
+      - {x: -196.6092, y: 419.48047}
+      - {x: -191.40102, y: 422.08594}
+      - {x: -170.56825, y: 435.11328}
+      - {x: -170.56825, y: 517.18555}
+      - {x: -174.4744, y: 519.791}
+    - - {x: -88.539246, y: 462.4707}
+      - {x: -85.93515, y: 457.25977}
+      - {x: -58.592148, y: 432.5078}
+      - {x: -9.114334, y: 432.5078}
+      - {x: -5.208191, y: 433.81055}
+      - {x: -5.208191, y: 471.58984}
+      - {x: -6.5102386, y: 476.80078}
+      - {x: -82.02901, y: 476.80078}
+      - {x: -88.539246, y: 471.58984}
+    - - {x: -140.62115, y: 502.85547}
+      - {x: -164.05801, y: 463.77344}
+      - {x: -164.05801, y: 435.11328}
+      - {x: -161.45392, y: 433.81055}
+      - {x: -114.5802, y: 433.81055}
+      - {x: -89.84129, y: 466.3789}
+      - {x: -89.84129, y: 502.85547}
+    - - {x: -378.8959, y: 531.5156}
+      - {x: -381.5, y: 528.91016}
+      - {x: -381.5, y: 526.3047}
+      - {x: -378.8959, y: 523.6992}
+      - {x: -82.02901, y: 523.6992}
+      - {x: -79.42491, y: 526.3047}
+      - {x: -79.42491, y: 528.91016}
+      - {x: -82.02901, y: 531.5156}
+    - - {x: -368.47952, y: 592.74414}
+      - {x: -368.47952, y: 547.14844}
+      - {x: -343.7406, y: 538.0293}
+      - {x: -326.814, y: 538.0293}
+      - {x: -319.0017, y: 541.9375}
+      - {x: -319.0017, y: 592.74414}
+    - - {x: -296.86688, y: 594.0469}
+      - {x: -319.0017, y: 581.01953}
+      - {x: -319.0017, y: 557.5703}
+      - {x: -304.67917, y: 539.33203}
+      - {x: -248.69112, y: 539.33203}
+      - {x: -243.48293, y: 543.24023}
+      - {x: -243.48293, y: 556.2676}
+      - {x: -274.7321, y: 594.0469}
+    - - {x: -200.51535, y: 596.65234}
+      - {x: -239.57678, y: 596.65234}
+      - {x: -239.57678, y: 554.96484}
+      - {x: -226.5563, y: 539.33203}
+      - {x: -173.17235, y: 539.33203}
+      - {x: -164.05801, y: 541.9375}
+      - {x: -164.05801, y: 556.2676}
+      - {x: -183.58873, y: 588.83594}
+    - - {x: -126.29863, y: 605.7715}
+      - {x: -154.94368, y: 605.7715}
+      - {x: -158.84982, y: 603.166}
+      - {x: -158.84982, y: 553.6621}
+      - {x: -149.73549, y: 539.33203}
+      - {x: -101.55972, y: 539.33203}
+      - {x: -87.2372, y: 543.24023}
+      - {x: -83.331055, y: 548.4512}
+      - {x: -83.331055, y: 560.1758}
+    - - {x: -92.44539, y: 689.1465}
+      - {x: -114.5802, y: 682.6328}
+      - {x: -113.27815, y: 668.30273}
+      - {x: -111.976105, y: 655.2754}
+      - {x: -114.5802, y: 674.8164}
+      - {x: -131.50682, y: 698.2656}
+      - {x: -143.22525, y: 698.2656}
+      - {x: -166.66211, y: 693.0547}
+      - {x: -175.77644, y: 698.2656}
+      - {x: -204.4215, y: 698.2656}
+      - {x: -209.62968, y: 696.9629}
+      - {x: -205.72354, y: 639.6426}
+      - {x: -208.32764, y: 669.60547}
+      - {x: -216.13992, y: 682.6328}
+      - {x: -236.97269, y: 687.84375}
+      - {x: -259.1075, y: 682.6328}
+      - {x: -257.80545, y: 664.39453}
+      - {x: -255.20135, y: 655.2754}
+      - {x: -247.38907, y: 637.0371}
+      - {x: -294.2628, y: 676.11914}
+      - {x: -305.98123, y: 680.02734}
+      - {x: -328.11603, y: 685.2383}
+      - {x: -343.7406, y: 655.2754}
+      - {x: -339.83447, y: 642.24805}
+      - {x: -343.7406, y: 651.3672}
+      - {x: -343.7406, y: 657.88086}
+      - {x: -339.83447, y: 674.8164}
+      - {x: -343.7406, y: 681.3301}
+      - {x: -354.15698, y: 689.1465}
+      - {x: -381.5, y: 673.5137}
+      - {x: -381.5, y: 612.28516}
+      - {x: -380.19794, y: 610.9824}
+      - {x: -58.592148, y: 610.9824}
+      - {x: -58.592148, y: 652.6699}
+      - {x: -66.404434, y: 685.2383}
+    - - {x: -294.2628, y: 681.3301}
+      - {x: -303.37714, y: 668.30273}
+      - {x: -303.37714, y: 653.97266}
+      - {x: -300.77304, y: 648.7617}
+      - {x: -282.54437, y: 621.4043}
+      - {x: -264.3157, y: 621.4043}
+      - {x: -259.1075, y: 638.33984}
+      - {x: -259.1075, y: 681.3301}
+    - - {x: -324.2099, y: 734.7422}
+      - {x: -326.814, y: 725.62305}
+      - {x: -328.11603, y: 734.7422}
+      - {x: -341.1365, y: 756.8887}
+      - {x: -378.8959, y: 756.8887}
+      - {x: -381.5, y: 755.58594}
+      - {x: -381.5, y: 685.2383}
+      - {x: -274.7321, y: 685.2383}
+      - {x: -274.7321, y: 706.08203}
+      - {x: -299.47098, y: 742.5586}
+    - - {x: -361.96927, y: 695.66016}
+      - {x: -359.36517, y: 699.56836}
+      - {x: -367.17746, y: 694.3574}
+      - {x: -365.87543, y: 694.3574}
+    - - {x: -298.16895, y: 695.66016}
+      - {x: -296.86688, y: 695.66016}
+      - {x: -302.07507, y: 694.3574}
+      - {x: -300.77304, y: 693.0547}
+    - - {x: 270.82593, y: 716.5039}
+      - {x: 265.61774, y: 716.5039}
+      - {x: 259.1075, y: 711.29297}
+      - {x: 257.80545, y: 707.38477}
+      - {x: 257.80545, y: 700.8711}
+      - {x: 264.3157, y: 700.8711}
+      - {x: 273.43002, y: 711.29297}
+      - {x: 273.43002, y: 715.2012}
+    - - {x: 302.07507, y: 711.29297}
+      - {x: 309.88736, y: 700.8711}
+      - {x: 315.09555, y: 700.8711}
+      - {x: 317.69965, y: 702.1738}
+      - {x: 317.69965, y: 706.08203}
+      - {x: 312.49146, y: 713.89844}
+      - {x: 309.88736, y: 716.5039}
+      - {x: 303.37714, y: 716.5039}
+      - {x: 302.07507, y: 715.2012}
+    - - {x: 187.49487, y: 708.6875}
+      - {x: 187.49487, y: 702.1738}
+      - {x: 192.70306, y: 702.1738}
+      - {x: 201.8174, y: 707.38477}
+      - {x: 201.8174, y: 715.2012}
+      - {x: 199.2133, y: 717.80664}
+      - {x: 196.6092, y: 717.80664}
+    - - {x: 231.7645, y: 717.80664}
+      - {x: 229.1604, y: 715.2012}
+      - {x: 229.1604, y: 707.38477}
+      - {x: 238.27473, y: 702.1738}
+      - {x: 243.48293, y: 702.1738}
+      - {x: 243.48293, y: 708.6875}
+      - {x: 234.36859, y: 717.80664}
+    - - {x: 78.12286, y: 724.3203}
+      - {x: 70.31058, y: 724.3203}
+      - {x: 61.196243, y: 713.89844}
+      - {x: 61.196243, y: 706.08203}
+      - {x: 63.80034, y: 704.7793}
+      - {x: 67.70648, y: 704.7793}
+      - {x: 78.12286, y: 715.2012}
+      - {x: 79.42491, y: 719.1094}
+      - {x: 79.42491, y: 723.0176}
+    - - {x: 126.29863, y: 719.1094}
+      - {x: 119.78839, y: 713.89844}
+      - {x: 118.48634, y: 707.38477}
+      - {x: 119.78839, y: 704.7793}
+      - {x: 123.694534, y: 704.7793}
+      - {x: 132.80887, y: 708.6875}
+      - {x: 132.80887, y: 716.5039}
+      - {x: 130.20477, y: 719.1094}
+    - - {x: 156.24573, y: 711.29297}
+      - {x: 162.75597, y: 704.7793}
+      - {x: 170.56825, y: 704.7793}
+      - {x: 170.56825, y: 711.29297}
+      - {x: 165.36006, y: 719.1094}
+      - {x: 158.84982, y: 719.1094}
+      - {x: 156.24573, y: 716.5039}
+    - - {x: 92.44539, y: 719.1094}
+      - {x: 104.16382, y: 706.08203}
+      - {x: 109.37201, y: 706.08203}
+      - {x: 111.976105, y: 707.38477}
+      - {x: 111.976105, y: 711.29297}
+      - {x: 101.55972, y: 724.3203}
+      - {x: 95.049484, y: 724.3203}
+      - {x: 92.44539, y: 723.0176}
+    - - {x: 22.134811, y: 728.2285}
+      - {x: 13.020477, y: 717.80664}
+      - {x: 13.020477, y: 709.99023}
+      - {x: 24.738907, y: 709.99023}
+      - {x: 32.551193, y: 723.0176}
+      - {x: 32.551193, y: 728.2285}
+    - - {x: 36.457336, y: 723.0176}
+      - {x: 48.175766, y: 709.99023}
+      - {x: 55.988052, y: 709.99023}
+      - {x: 55.988052, y: 715.2012}
+      - {x: 48.175766, y: 728.2285}
+      - {x: 37.759384, y: 728.2285}
+      - {x: 36.457336, y: 725.62305}
+    - - {x: 325.51193, y: 733.43945}
+      - {x: 322.90784, y: 736.0449}
+      - {x: 44.269623, y: 736.0449}
+      - {x: 46.87372, y: 736.0449}
+      - {x: 53.383957, y: 743.8613}
+      - {x: 65.10239, y: 752.98047}
+      - {x: -16.92662, y: 752.98047}
+      - {x: -20.832764, y: 750.375}
+      - {x: -24.738907, y: 739.9531}
+      - {x: -24.738907, y: 723.0176}
+      - {x: -23.43686, y: 713.89844}
+      - {x: 9.114334, y: 713.89844}
+      - {x: 13.020477, y: 716.5039}
+      - {x: 322.90784, y: 728.2285}
+      - {x: 325.51193, y: 730.834}
+    - - {x: 61.196243, y: 756.8887}
+      - {x: 61.196243, y: 750.375}
+      - {x: 62.49829, y: 746.4668}
+      - {x: 71.612625, y: 737.34766}
+      - {x: 76.820816, y: 737.34766}
+      - {x: 79.42491, y: 738.6504}
+      - {x: 79.42491, y: 749.07227}
+      - {x: 67.70648, y: 756.8887}
+    - - {x: 106.767914, y: 756.8887}
+      - {x: 92.44539, y: 746.4668}
+      - {x: 92.44539, y: 738.6504}
+      - {x: 93.74744, y: 737.34766}
+      - {x: 100.257675, y: 737.34766}
+      - {x: 111.976105, y: 747.76953}
+      - {x: 111.976105, y: 756.8887}
+    - - {x: 118.48634, y: 747.76953}
+      - {x: 124.99658, y: 742.5586}
+      - {x: 130.20477, y: 742.5586}
+      - {x: 132.80887, y: 743.8613}
+      - {x: 132.80887, y: 751.67773}
+      - {x: 122.39249, y: 758.1914}
+      - {x: 119.78839, y: 758.1914}
+      - {x: 118.48634, y: 756.8887}
+    - - {x: 166.66211, y: 758.1914}
+      - {x: 157.54778, y: 751.67773}
+      - {x: 156.24573, y: 745.16406}
+      - {x: 158.84982, y: 742.5586}
+      - {x: 165.36006, y: 743.8613}
+      - {x: 170.56825, y: 750.375}
+      - {x: 170.56825, y: 756.8887}
+    - - {x: 187.49487, y: 752.98047}
+      - {x: 188.79692, y: 750.375}
+      - {x: 195.30716, y: 743.8613}
+      - {x: 201.8174, y: 743.8613}
+      - {x: 201.8174, y: 751.67773}
+      - {x: 200.51535, y: 756.8887}
+      - {x: 195.30716, y: 759.49414}
+      - {x: 190.09897, y: 759.49414}
+      - {x: 187.49487, y: 758.1914}
+    - - {x: 238.27473, y: 759.49414}
+      - {x: 229.1604, y: 755.58594}
+      - {x: 229.1604, y: 743.8613}
+      - {x: 238.27473, y: 743.8613}
+      - {x: 243.48293, y: 752.98047}
+      - {x: 243.48293, y: 759.49414}
+    - - {x: 257.80545, y: 760.7969}
+      - {x: 257.80545, y: 755.58594}
+      - {x: 263.01364, y: 746.4668}
+      - {x: 265.61774, y: 745.16406}
+      - {x: 270.82593, y: 745.16406}
+      - {x: 273.43002, y: 746.4668}
+      - {x: 273.43002, y: 750.375}
+      - {x: 265.61774, y: 760.7969}
+    - - {x: 312.49146, y: 760.7969}
+      - {x: 303.37714, y: 755.58594}
+      - {x: 302.07507, y: 750.375}
+      - {x: 302.07507, y: 747.76953}
+      - {x: 304.67917, y: 745.16406}
+      - {x: 307.28326, y: 745.16406}
+      - {x: 317.69965, y: 755.58594}
+      - {x: 317.69965, y: 756.8887}
+      - {x: 316.3976, y: 760.7969}
+    - - {x: -156.24573, y: 840.2637}
+      - {x: -160.15187, y: 803.7871}
+      - {x: -169.2662, y: 840.2637}
+      - {x: -207.02559, y: 840.2637}
+      - {x: -217.44197, y: 822.0254}
+      - {x: -214.83788, y: 803.7871}
+      - {x: -230.46245, y: 840.2637}
+      - {x: -276.03412, y: 840.2637}
+      - {x: -270.82593, y: 806.3926}
+      - {x: -265.61774, y: 769.916}
+      - {x: -270.82593, y: 805.08984}
+      - {x: -272.128, y: 811.6035}
+      - {x: -279.94028, y: 833.75}
+      - {x: -285.14847, y: 837.6582}
+      - {x: -291.6587, y: 840.2637}
+      - {x: -321.6058, y: 840.2637}
+      - {x: -321.6058, y: 837.6582}
+      - {x: -317.69965, y: 793.36523}
+      - {x: -320.30374, y: 811.6035}
+      - {x: -330.72012, y: 838.96094}
+      - {x: -338.5324, y: 840.2637}
+      - {x: -372.38565, y: 840.2637}
+      - {x: -381.5, y: 788.1543}
+      - {x: -381.5, y: 760.7969}
+      - {x: -53.383957, y: 760.7969}
+      - {x: -53.383957, y: 798.5762}
+      - {x: -55.988052, y: 812.90625}
+      - {x: -70.31058, y: 838.96094}
+      - {x: -75.51877, y: 840.2637}
+    - - {x: -360.66724, y: 769.916}
+      - {x: -354.15698, y: 775.12695}
+      - {x: -360.66724, y: 771.21875}
+    - - {x: -201.8174, y: 769.916}
+      - {x: -192.70306, y: 779.03516}
+      - {x: -194.00511, y: 779.03516}
+      - {x: -190.09897, y: 775.12695}
+      - {x: -188.79692, y: 771.21875}
+      - {x: -203.11945, y: 769.916}
+    - - {x: -110.67406, y: 803.7871}
+      - {x: -106.767914, y: 807.6953}
+      - {x: -108.06996, y: 810.3008}
+      - {x: -109.37201, y: 807.6953}
+      - {x: -102.86177, y: 799.8789}
+      - {x: -102.86177, y: 795.9707}
+    - - {x: -373.6877, y: 921.0332}
+      - {x: -380.19794, y: 900.18945}
+      - {x: -381.5, y: 866.31836}
+      - {x: -381.5, y: 842.86914}
+      - {x: -378.8959, y: 841.5664}
+      - {x: -319.0017, y: 841.5664}
+      - {x: -319.0017, y: 849.3828}
+      - {x: -321.6058, y: 850.68555}
+      - {x: -324.2099, y: 885.8594}
+      - {x: -329.4181, y: 921.0332}
+    - - {x: -121.09044, y: 980.959}
+      - {x: -123.694534, y: 970.5371}
+      - {x: -136.71501, y: 977.0508}
+      - {x: -141.9232, y: 977.0508}
+      - {x: -147.1314, y: 980.959}
+      - {x: -321.6058, y: 980.959}
+      - {x: -325.51193, y: 961.41797}
+      - {x: -322.90784, y: 939.2715}
+      - {x: -326.814, y: 953.60156}
+      - {x: -335.9283, y: 979.65625}
+      - {x: -350.25085, y: 980.959}
+      - {x: -373.6877, y: 980.959}
+      - {x: -381.5, y: 952.2988}
+      - {x: -381.5, y: 924.9414}
+      - {x: -74.21672, y: 924.9414}
+      - {x: -70.31058, y: 926.24414}
+      - {x: -70.31058, y: 948.3906}
+      - {x: -80.72696, y: 980.959}
+    - - {x: -378.8959, y: 1038.2793}
+      - {x: -378.8959, y: 1027.8574}
+      - {x: -381.5, y: 1010.9219}
+      - {x: -381.5, y: 984.8672}
+      - {x: -325.51193, y: 984.8672}
+      - {x: -325.51193, y: 1029.1602}
+      - {x: -338.5324, y: 1038.2793}
+    - - {x: -381.5, y: 1099.5078}
+      - {x: -381.5, y: 1044.793}
+      - {x: -104.16382, y: 1044.793}
+      - {x: -104.16382, y: 1099.5078}
+    - - {x: -381.5, y: 1141.1953}
+      - {x: -381.5, y: 1106.0215}
+      - {x: -333.32422, y: 1106.0215}
+      - {x: -333.32422, y: 1160.7363}
+      - {x: -377.59384, y: 1160.7363}
+      - {x: -378.8959, y: 1159.4336}
+    - - {x: -153.64163, y: 1251.9277}
+      - {x: -156.24573, y: 1227.1758}
+      - {x: -156.24573, y: 1208.9375}
+      - {x: -156.24573, y: 1242.8086}
+      - {x: -164.05801, y: 1250.625}
+      - {x: -169.2662, y: 1251.9277}
+      - {x: -183.58873, y: 1251.9277}
+      - {x: -191.40102, y: 1237.5977}
+      - {x: -200.51535, y: 1245.4141}
+      - {x: -213.53583, y: 1251.9277}
+      - {x: -324.2099, y: 1251.9277}
+      - {x: -337.23038, y: 1231.084}
+      - {x: -337.23038, y: 1244.1113}
+      - {x: -346.3447, y: 1251.9277}
+      - {x: -348.9488, y: 1251.9277}
+      - {x: -380.19794, y: 1249.3223}
+      - {x: -378.8959, y: 1214.1484}
+      - {x: -381.5, y: 1201.1211}
+      - {x: -381.5, y: 1172.4609}
+      - {x: 61.196243, y: 1172.4609}
+      - {x: 61.196243, y: 1244.1113}
+      - {x: 48.175766, y: 1251.9277}
+    - - {x: -360.66724, y: 1182.8828}
+      - {x: -352.85495, y: 1185.4883}
+      - {x: -352.85495, y: 1182.8828}
+      - {x: -363.27133, y: 1182.8828}
+    - - {x: -217.44197, y: 1192.002}
+      - {x: -218.74402, y: 1190.6992}
+      - {x: -213.53583, y: 1182.8828}
+      - {x: -227.85835, y: 1181.5801}
+      - {x: -226.5563, y: 1181.5801}
+    - - {x: 227.85835, y: 1192.002}
+      - {x: 342.43857, y: 1192.002}
+      - {x: 342.43857, y: 1215.4512}
+      - {x: 325.51193, y: 1276.6797}
+      - {x: 300.77304, y: 1291.0098}
+      - {x: 225.25426, y: 1291.0098}
+      - {x: 225.25426, y: 1194.6074}
+    - - {x: -371.08362, y: 1330.0918}
+      - {x: -376.2918, y: 1323.5781}
+      - {x: -376.2918, y: 1276.6797}
+      - {x: -373.6877, y: 1271.4688}
+      - {x: -381.5, y: 1261.0469}
+      - {x: -381.5, y: 1250.625}
+      - {x: -333.32422, y: 1250.625}
+      - {x: -333.32422, y: 1330.0918}
+    physicsShape: []
+    bones: []
+    spriteID: 688371b808477ce43bd673844b8ed889
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

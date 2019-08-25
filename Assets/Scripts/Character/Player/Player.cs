@@ -33,11 +33,11 @@ public class Player : Character
         Vector2 midPosition = transform.position;
         Vector2 lowPosition = new Vector2(transform.position.x, transform.position.y - 0.5f);
 
-        Vector2 directionVector = new Vector2(direction * attackRange, 0);
+        Vector2 directionVector = new Vector2(direction * _attackRange, 0);
 
-        RaycastHit2D[] highRay = Physics2D.RaycastAll(highPosition, new Vector2(direction, 0), attackRange);
-        RaycastHit2D[] midRay = Physics2D.RaycastAll(midPosition, new Vector2(direction, 0), attackRange);
-        RaycastHit2D[] lowRay = Physics2D.RaycastAll(lowPosition, new Vector2(direction, 0), attackRange);
+        RaycastHit2D[] highRay = Physics2D.RaycastAll(highPosition, new Vector2(direction, 0), _attackRange);
+        RaycastHit2D[] midRay = Physics2D.RaycastAll(midPosition, new Vector2(direction, 0), _attackRange);
+        RaycastHit2D[] lowRay = Physics2D.RaycastAll(lowPosition, new Vector2(direction, 0), _attackRange);
 
         #if DEBUG
         Debug.DrawRay(highPosition, directionVector);
@@ -66,7 +66,7 @@ public class Player : Character
         //Enemy lose health
         foreach (Enemy enemy in enemyList)
         {
-            enemy.LoseHealth(attackDamage);
+            enemy.LoseHealth(_attackDamage);
         }
     }
 
@@ -132,6 +132,6 @@ public class Player : Character
     private void PushEnemyOnAttack(Collider2D enemyCollider)
     {
         Vector2 direction = enemyCollider.GetComponent<Rigidbody2D>().transform.position - this.transform.position;
-        enemyCollider.GetComponent<Rigidbody2D>().AddForceAtPosition(direction.normalized * attackPushForce, this.transform.position);
+        enemyCollider.GetComponent<Rigidbody2D>().AddForceAtPosition(direction.normalized * _attackPushForce, this.transform.position);
     }
 }

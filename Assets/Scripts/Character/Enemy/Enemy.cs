@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class Enemy : Character
 {
-	[SerializeField] private float rangeToAttack;
-	[SerializeField] private GameObject player;
-	[SerializeField] private float secondsToFlash;
+	[SerializeField] private float _rangeToAttack;
+	[SerializeField] private GameObject _player;
+	[SerializeField] private float _secondsToFlash;
 
-	private bool damaged;
-	private float timeToRemoveFlash;
+	private bool _damaged;
+	private float _timeToRemoveFlash;
 	//private float timeToChangeColor;
 
 	//private const float SECONDS_BETWEEN_FLASHES = 0.1f;
@@ -20,7 +20,7 @@ public class Enemy : Character
 
 	void Start()
 	{
-		damaged = false;
+		_damaged = false;
 	}
 
 	public void Attack()
@@ -36,12 +36,12 @@ public class Enemy : Character
 		Vector2 midPos = transform.position;
 		Vector2 lowPos = new Vector2 (transform.position.x, transform.position.y - 0.5f);
 
-		Vector2 direction = new Vector2 (dir * attackRange, 0);
+		Vector2 direction = new Vector2 (dir * _attackRange, 0);
 
 
-		RaycastHit2D[] highRay = Physics2D.RaycastAll (highPos, new Vector2 (dir, 0), attackRange);
-		RaycastHit2D[] midRay = Physics2D.RaycastAll (midPos, new Vector2 (dir, 0), attackRange);
-		RaycastHit2D[] lowRay = Physics2D.RaycastAll (lowPos, new Vector2 (dir, 0), attackRange);
+		RaycastHit2D[] highRay = Physics2D.RaycastAll (highPos, new Vector2 (dir, 0), _attackRange);
+		RaycastHit2D[] midRay = Physics2D.RaycastAll (midPos, new Vector2 (dir, 0), _attackRange);
+		RaycastHit2D[] lowRay = Physics2D.RaycastAll (lowPos, new Vector2 (dir, 0), _attackRange);
 
 		#if DEBUG
 		Debug.DrawRay (highPos, direction);
@@ -83,19 +83,20 @@ public class Enemy : Character
 				#if DEBUG
 				Debug.Log(ray.collider.gameObject.tag);
 				#endif
+
 				PushPlayerOnAttack (ray.collider);
 			}
 		}
 
 		if(colliderHit != null)
 		{
-			colliderHit.gameObject.GetComponent<Player> ().LoseHealth(attackDamage);
+			colliderHit.gameObject.GetComponent<Player> ().LoseHealth(_attackDamage);
 		}
 	}
 
 	public float GetRangeToAttack()
 	{
-		return rangeToAttack;
+		return _rangeToAttack;
 	}
 
 	public override void LoseHealth(float damage)
@@ -103,14 +104,14 @@ public class Enemy : Character
 		base.LoseHealth(damage);
 
 		characterSprite.color = Color.red;
-		damaged = true;
-		timeToRemoveFlash = Time.time + secondsToFlash;
+		_damaged = true;
+		_timeToRemoveFlash = Time.time + _secondsToFlash;
 		//timeToChangeColor = Time.time + SECONDS_BETWEEN_FLASHES;
 	}
 
 	public void ApplyColorOnDamaged()
 	{
-		if(damaged)
+		if(_damaged)
 		{
 //			if (Time.time >= timeToChangeColor) 
 //			{
@@ -118,9 +119,9 @@ public class Enemy : Character
 //				characterSprite.color = (characterSprite.color == Color.white) ? Color.red : Color.white;
 //			}
 
-			if(Time.time >= timeToRemoveFlash)
+			if(Time.time >= _timeToRemoveFlash)
 			{
-				damaged = false;
+				_damaged = false;
 				characterSprite.color = Color.white;
 			}
 		}
@@ -134,10 +135,11 @@ public class Enemy : Character
 	#region Private Methods
 	private void PushPlayerOnAttack(Collider2D playerCollider)
 	{
+
 		if (!playerCollider.gameObject.GetComponent<Player> ().IsInvulnerable ()) 
 		{
 			Vector2 direction = playerCollider.GetComponent<Rigidbody2D> ().transform.position - this.transform.position;
-			playerCollider.GetComponent<Rigidbody2D> ().AddForceAtPosition (direction.normalized * attackPushForce, this.transform.position);
+			playerCollider.GetComponent<Rigidbody2D> ().AddForceAtPosition (direction.normalized * _attackPushForce, this.transform.position);
 		}
 	}
 	#endregion

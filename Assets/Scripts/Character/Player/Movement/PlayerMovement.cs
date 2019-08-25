@@ -14,49 +14,47 @@ public class PlayerMovement : MonoBehaviour
 	//======================================================
 	// Serialized variables
 	//======================================================
-	[SerializeField] private float jumpSpeed;
-	[SerializeField] private float fallingMultiplier;
-	[SerializeField] private int numberOfJumps;
-    [SerializeField] private float speed;
+	[SerializeField] private float _jumpSpeed;
+	[SerializeField] private float _fallingMultiplier;
+	[SerializeField] private int _numberOfJumps;
+    [SerializeField] private float _speed;
 
-    [SerializeField] private float invulnerabilityAfterHitDuration;
-	[SerializeField] private float secondsBetweenFlashes;
+    [SerializeField] private float _invulnerabilityAfterHitDuration;
+	[SerializeField] private float _secondsBetweenFlashes;
 
-	//[SerializeField] private GameObject dustParticles;
-
-	[SerializeField] private BoxCollider bottomCollider;
+	[SerializeField] private BoxCollider _bottomCollider;
 
 	//======================================================
 	// Private variables
 	//======================================================
-	private int jumpNumber;
-	private bool isJumping = false;
-	private bool isFalling = false;
+	private int _jumpNumber;
+	private bool _isJumping = false;
+	private bool _isFalling = false;
 
-	private bool damaged;
-	private float timeToRemoveFlash;
-	private float timeToChangeColor;
+	private bool _damaged;
+	private float _timeToRemoveFlash;
+	private float _timeToChangeColor;
 
     //======================================================
     // Private physics-related variables
     //======================================================
-    private Rigidbody playerRigidBody;
+    private Rigidbody _playerRigidBody;
     //private SpriteRenderer playerSprite;
-    private BoxCollider playerCollider;
+    private BoxCollider _playerCollider;
 
     //======================================================
     // Public methodes
     //======================================================
     public void Awake()
     {
-        playerRigidBody = GetComponent<Rigidbody>();
+        _playerRigidBody = GetComponent<Rigidbody>();
         //playerSprite = GetComponent<SpriteRenderer>();
-        playerCollider = GetComponent<BoxCollider>();
+        _playerCollider = GetComponent<BoxCollider>();
     }
 
     public void StartMovement()
 	{
-        damaged = false;
+        _damaged = false;
 		isMovementDisabled = false;
 	}
 
@@ -64,10 +62,10 @@ public class PlayerMovement : MonoBehaviour
 	{
 		//Utils.DecelerateX(ref characterRigidbody, decelerationPercentage);
 
-		if(playerRigidBody.velocity.y > 0)
+		if(_playerRigidBody.velocity.y > 0)
 		{
-			isFalling = true;
-			playerRigidBody.velocity += Vector3.up * Physics2D.gravity.y * (fallingMultiplier - 1) * Time.deltaTime;
+			_isFalling = true;
+			_playerRigidBody.velocity += Vector3.up * Physics2D.gravity.y * (_fallingMultiplier - 1) * Time.deltaTime;
 		}
 	}
 
@@ -77,7 +75,7 @@ public class PlayerMovement : MonoBehaviour
 		{
             direction = (int)Directions.Left;
 			//playerSprite.flipX = true;
-			playerRigidBody.AddForce (new Vector2 (-speed, 0), ForceMode.Impulse);
+			_playerRigidBody.AddForce (new Vector2 (-_speed, 0), ForceMode.Impulse);
 		}
 	}
 
@@ -87,19 +85,19 @@ public class PlayerMovement : MonoBehaviour
 		{
 			direction = (int)Directions.Right;
 			//playerSprite.flipX = false;
-			playerRigidBody.AddForce (new Vector2 (speed, 0), ForceMode.Impulse);
+			_playerRigidBody.AddForce (new Vector2 (_speed, 0), ForceMode.Impulse);
 		}
 	}
 
 	public void Jump()
 	{
-		if (jumpNumber != 0 && !isMovementDisabled) 
+		if (_jumpNumber != 0 && !isMovementDisabled) 
 		{
-			isJumping = true;
-			jumpNumber--;
+			_isJumping = true;
+			_jumpNumber--;
 
-			playerRigidBody.velocity = new Vector2 (playerRigidBody.velocity.x, 0);
-			playerRigidBody.AddForce(new Vector2(0, jumpSpeed));
+			_playerRigidBody.velocity = new Vector2 (_playerRigidBody.velocity.x, 0);
+			_playerRigidBody.AddForce(new Vector2(0, _jumpSpeed));
 		}
 	}	
 
@@ -110,24 +108,24 @@ public class PlayerMovement : MonoBehaviour
 	//Method called when bottomCollider hits
 	void OnTriggerEnter(Collider collider)
 	{
-		jumpNumber = numberOfJumps;
-		isJumping = false;
-		isFalling = false;
+		_jumpNumber = _numberOfJumps;
+		_isJumping = false;
+		_isFalling = false;
 
 		//GameObject.Instantiate<GameObject> (dustParticles, transform.position, new Quaternion ());
 	}
     
 	void OnTriggerExit(Collider collider)
 	{
-		if (!isJumping /*&& !playerCollider.IsTouchingLayers()*/)
-			jumpNumber--;
+		if (!_isJumping /*&& !playerCollider.IsTouchingLayers()*/)
+			_jumpNumber--;
 	}
 
 	void OnCollisionEnter(Collision coll) 
 	{
 		if (coll.gameObject.tag == "Enemy") 
 		{
-            Physics.IgnoreCollision(playerCollider, coll.collider);
+            Physics.IgnoreCollision(_playerCollider, coll.collider);
 		}
 	}
 

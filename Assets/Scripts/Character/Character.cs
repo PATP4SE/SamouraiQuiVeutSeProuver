@@ -16,9 +16,9 @@ public abstract class Character : MonoBehaviour
 	//[SerializeField] protected float speed;
 	//[SerializeField] protected float decelerationPercentage;
 
-	[SerializeField] protected float attackRange;
-	[SerializeField] protected float attackPushForce;
-	[SerializeField] protected float attackDamage;
+	[SerializeField] protected float _attackRange;
+	[SerializeField] protected float _attackPushForce;
+	[SerializeField] protected float _attackDamage;
 
 	//======================================================
 	// Private physics-related variables
