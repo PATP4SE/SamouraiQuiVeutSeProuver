@@ -9,7 +9,7 @@ AnimatorController:
   m_Name: Player
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: isWlaking
+  - m_Name: IsWalking
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
@@ -68,7 +68,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: isWlaking
+    m_ConditionEvent: IsWalking
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 1102586089815524768}
@@ -93,7 +93,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 2
-    m_ConditionEvent: isWlaking
+    m_ConditionEvent: IsWalking
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 1102306438119608296}
@@ -101,10 +101,10 @@ AnimatorStateTransition:
   m_Mute: 0
   m_IsExit: 0
   serializedVersion: 3
-  m_TransitionDuration: 0.014589071
+  m_TransitionDuration: 0.033703774
   m_TransitionOffset: 0
-  m_ExitTime: 0.94471323
-  m_HasExitTime: 1
+  m_ExitTime: 0.88676554
+  m_HasExitTime: 0
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
@@ -180,7 +180,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 2d43b4b533964fe4da3d75be617b7c6d, type: 2}
+  m_Motion: {fileID: 7400000, guid: 35fac026cf135ad47a402ec9e0e37181, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
