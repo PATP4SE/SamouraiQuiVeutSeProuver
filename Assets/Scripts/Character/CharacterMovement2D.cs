@@ -8,7 +8,7 @@ public class CharacterMovement2D : MonoBehaviour
     // Serialized variables
     //======================================================
     [SerializeField] private float m_JumpForce = 400f;							// Amount of force added when the player jumps.
-	[SerializeField] private const int MAX_JUMP_NUMBER = 2;                     // Number of jumps allowed befor touching the ground
+	[SerializeField] private const int MAX_JUMP_NUMBER = 2;                     // Number of jumps allowed before touching the ground
     [Range(0, 1)] [SerializeField] private float m_CrouchSpeed = .36f;			// Amount of maxSpeed applied to crouching movement. 1 = 100%
 	[Range(0, .3f)] [SerializeField] private float m_MovementSmoothing = .05f;	// How much to smooth out the movement
     [SerializeField] private float m_Speed = 40f;                               // Speed
@@ -48,8 +48,9 @@ public class CharacterMovement2D : MonoBehaviour
 	private void Awake()
 	{
 		_rigidbody = GetComponent<Rigidbody>();
+        _jumpNumber = MAX_JUMP_NUMBER;
 
-		if (OnLandEvent == null)
+        if (OnLandEvent == null)
 			OnLandEvent = new UnityEvent();
 
 		if (OnCrouchEvent == null)
@@ -68,13 +69,7 @@ public class CharacterMovement2D : MonoBehaviour
 		{
 			if (colliders[i].gameObject != gameObject)
 			{
-				_isGrounded = true;
-                if (!wasGrounded)
-                {
-                    Debug.Log("onland");
-                    OnLandEvent.Invoke();
-                    _jumpNumber = 0;
-                }
+                HitGround(wasGrounded);
 			}
 		}
 
@@ -113,7 +108,8 @@ public class CharacterMovement2D : MonoBehaviour
 				// Disable one of the colliders when crouching
 				if (m_CrouchDisableCollider != null)
 					m_CrouchDisableCollider.enabled = false;
-			} else
+			}
+            else
 			{
 				// Enable the collider when not crouching
 				if (m_CrouchDisableCollider != null)
@@ -144,19 +140,23 @@ public class CharacterMovement2D : MonoBehaviour
 				Flip();
 			}
 		}
-		// If the player should jump...
-		if (jump && _jumpNumber < MAX_JUMP_NUMBER)
-		{
-			// Add a vertical force to the player.
-			_isGrounded = false;
+        // If the player should jump...
+        Jump(jump);
+
+    }
+
+    private void Jump(bool isJumping)
+    {
+        if (isJumping && _jumpNumber != 0)
+        {
+            // Add a vertical force to the player.
+            _isGrounded = false;
             _rigidbody.velocity = new Vector2(_rigidbody.velocity.x, 0);
-            _rigidbody.AddForce(new Vector2(0f, m_JumpForce), ForceMode.Impulse);
-            _jumpNumber++;
-
+            _rigidbody.AddForce(new Vector2(0, m_JumpForce), ForceMode.Impulse);
+            _jumpNumber--;
         }
-	}
-
-
+    }
+    
 	private void Flip()
 	{
 		// Switch the way the player is labelled as facing.
@@ -168,6 +168,30 @@ public class CharacterMovement2D : MonoBehaviour
 		transform.localScale = theScale;
 	}
 
+    private void HitGround(bool wasGrounded)
+    {
+        _isGrounded = true;
+        if (!wasGrounded)
+        {
+            Debug.Log("OnLand");
+            OnLandEvent.Invoke();
+            _jumpNumber = MAX_JUMP_NUMBER;
+        }
+    }
+
+    void OnTriggerEnter2D(Collider2D collider)
+    {
+        HitGround(false);
+
+        //GameObject.Instantiate<GameObject>(dustParticles, transform.position, new Quaternion());
+    }
+
+    //GanonGame
+    //void OnTriggerExit2D(Collider2D collider)
+    //{
+    //    if (!isJumping && !characterCollider.IsTouchingLayers())
+    //        jumpNumber--;
+    //}
 
     //To make the jump more fluid
     private void IncreaseFallingSpeed()

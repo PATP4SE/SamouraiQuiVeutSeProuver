@@ -2,7 +2,7 @@
 
 public class EnemyController : MonoBehaviour {
 
-	[SerializeField] private Animator enemyAnimator;
+	//[SerializeField] private Animator enemyAnimator;
 	[SerializeField] private GameObject player;
 
 	private Enemy enemy;
@@ -22,7 +22,7 @@ public class EnemyController : MonoBehaviour {
 
 		if (Vector2.Distance (transform.position, player.transform.position) <= enemy.GetRangeToAttack()) 
 		{
-			enemyAnimator.SetTrigger ("Attack");
+			//enemyAnimator.SetTrigger ("Attack");
 		}
 
         enemyMovement.FollowPlayer ();

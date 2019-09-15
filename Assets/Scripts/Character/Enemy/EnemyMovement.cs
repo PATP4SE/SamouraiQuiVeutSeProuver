@@ -15,18 +15,18 @@ public class EnemyMovement : MonoBehaviour
     //======================================================
     // Private physics-related variables
     //======================================================
-    private Rigidbody2D enemenyRigidBody;
+    private Rigidbody enemenyRigidBody;
     private SpriteRenderer enemySprite;
-    protected BoxCollider2D enemyCollider;
+    protected BoxCollider enemyCollider;
     
     //======================================================
     // Public methodes
     //======================================================
     public void Awake()
     {
-        enemenyRigidBody = GetComponent<Rigidbody2D>();
+        enemenyRigidBody = GetComponent<Rigidbody>();
         enemySprite = GetComponent<SpriteRenderer>();
-        enemyCollider = GetComponent<BoxCollider2D>();
+        enemyCollider = GetComponent<BoxCollider>();
     }
 
     public void Start()
@@ -34,7 +34,7 @@ public class EnemyMovement : MonoBehaviour
         if (player == null)
             player = GameObject.FindGameObjectWithTag("Player");
 
-        Physics2D.IgnoreCollision(player.GetComponent<BoxCollider2D>(), enemyCollider);
+        Physics.IgnoreCollision(player.GetComponent<BoxCollider>(), enemyCollider);
     }
 
     public void FollowPlayer()
@@ -43,16 +43,16 @@ public class EnemyMovement : MonoBehaviour
 
 		float posX = (player.transform.position.x - enemenyRigidBody.transform.position.x) > 0 ? 1 : -1;
 
-		if (posX == 1) 
-		{
-            enemySprite.flipX = false;
-		} 
-		else 
-		{
-            enemySprite.flipX = true;
-		}
+		//if (posX == 1) 
+		//{
+        //  enemySprite.flipX = false;
+		//} 
+		//else 
+		//{
+        //  enemySprite.flipX = true;
+		//}
 
-        enemenyRigidBody.AddForce(new Vector3 ( posX * speed, 0), ForceMode2D.Impulse);
+        enemenyRigidBody.AddForce(new Vector3 ( posX * speed, 0), ForceMode.Impulse);
 	}
     
 }
